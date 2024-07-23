@@ -1,0 +1,28 @@
+<data:item xmlns:data="data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="data ../../xsd/alp.xsd" id="an-smart-battery-charger-lpc86x" type="app_note" format="projectfile" versionSchema="1.0.0" name="smart-battery-charger-lpc86x">
+    <display_title>
+        AN13864: Smart Battery Charger by LPC865 with SMBus Interface
+    </display_title>
+    <overview>
+        <![CDATA[The application introduces the smart battery charger solution based on LPC865.]]>
+    </overview>
+    <toolchains>
+        <toolchain name="mcux"></toolchain>
+    </toolchains>
+    <families>
+        <family name="lpc"></family>
+    </families>
+    <nxp_compatible_hw>
+        <custom_hw></custom_hw>
+    </nxp_compatible_hw>
+    <peripherals>
+        <peripheral name="adc"></peripheral>
+        <peripheral name="i2c"></peripheral>
+        <peripheral name="uart"></peripheral>
+        <peripheral name="timer"></peripheral>
+        <peripheral name="spi"></peripheral>
+        <peripheral name="gpio"></peripheral>
+    </peripherals>
+    <categories>
+        <category name="industrial"></category>
+    </categories>
+</data:item>

@@ -1,0 +1,43 @@
+NXP Software Content Register
+
+Package:                   an-smart_battery_charger_lpc86x
+
+Version:                   1.0
+Outgoing License:          BSD-3-Clause
+License File:              LICENSE
+Description and comments:  The application of batteries is everywhere: smartphones, notebook computers, 
+                           wearable devices, handheld electronic products, smart small appliances, and so on.
+Release Location:          https://github.com/nxp-appcodehub/an-smart_battery_charger_lpc86x
+Origin:                    NXP (BSD-3-Clause)
+                           cmsis - ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+                           cmsis_iccarm - IAR Systems, ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+
+
+
+cmsis                      Name: CMSIS                                       
+                           Version: V5.0.3                                   
+                           Outgoing License: Apache License 2.0              
+                           License File: CMSIS/LICENSE.txt                  
+                           Format: source code                               
+                           Description and comments: Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm Cortex processors, distributed by ARM. cores 
+                           Release location：https://github.com/nxp-appcodehub/an-smart_battery_charger_lpc86x/tree/main/CMSIS/  
+                           Origin: ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/
+
+cmsis_iccarm               Name: cmsis_iccarm.h                                     
+                           Version: V5.1.0                                   
+                           Outgoing License: Apache License 2.0              
+                           License File: CMSIS/LICENSE.txt                   
+                           Format: header files                               
+                           Description and comments: Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm Cortex processors, distributed by ARM. cores    
+                           Release location: https://github.com/nxp-appcodehub/an-smart_battery_charger_lpc86x/tree/main/CMSIS/cmsis_iccarm.h          
+                           Origin: IAR Systems, ARM (Apache-2.0) - https://github.com/ARM-software/CMSIS_5/  
+                                 
+SDK_Components             Name: SDK components and board peripheral drivers 
+                           Version: NA                                       
+                           Outgoing License: BSD-3-Clause                    
+                           License File: LICENSE                       
+                           Format: source code                               
+                           Description: SDK components and board peripheral  
+                           drivers, for example, flash and codec drivers.    
+                           Location: http://mcuxpresso.nxp.com/                            
+                           Origin: NXP (BSD-3-Clause)
